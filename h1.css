@@ -1,0 +1,29 @@
+body
+{
+	background-color: green;
+	color: yellow;
+
+	text-align: center;
+
+	font-size: xx-large;
+}
+
+p
+{
+	color: white;
+	background-color: black;
+
+	font-size: medium; 
+	font-weight: normal;
+
+
+}
+
+
+
+img
+{
+	width: 50%; 
+	height: auto;
+
+}
